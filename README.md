@@ -53,7 +53,6 @@ The objective of RoadAssist is to:
 
 🔗 **Deployed Link:**  
 https://road-aid-pro.vercel.app/
-*(Replace with your actual deployed URL if different)*
 
 ---
 
